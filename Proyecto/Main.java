@@ -11,11 +11,11 @@ public class Main {
      * de una forma bastante ineficiente.
      */
     public static void saludoBucle() {
-        System.out.println("Hola mundo.");
-        System.out.println("Hola mundo.");
-        System.out.println("Hola mundo.");
-        System.out.println("Hola mundo.");
-        System.out.println("Hola mundo.");
+        int i=0;
+        while(i<5){
+			System.out.println("Hola mundo.");
+			i++;
+		}
     }
 
     /**
