@@ -23,6 +23,6 @@ public class Main {
      * final de la ejecución del programa.
      */
     private static void despedida() {
-        System.out.println("Fin del programa.");
+        System.out.println("\nFin del programa.");
     }
 }
